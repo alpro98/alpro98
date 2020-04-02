@@ -1,0 +1,40 @@
+.title{
+	text-align: center;
+	padding-top: 2%;
+	color: #333;
+	font-size: 100px;
+}
+
+h1{
+	font-size: 3rem;
+}
+
+.login .fa-user-graduate{
+	padding-top: 5%;
+	padding-bottom: 0%;
+	height: 15%;
+	width: 15%;
+	color: #000;
+}
+
+.login{
+	font-family: 'Gotu', sans-serif;
+	border-top: 5%;
+	border-radius: 5%; 
+	margin: 2% 30% 0% 33%;
+	background-color: rgb(148, 226, 247);
+	width: 35%;
+	height: 380px;
+	text-align: center;
+}
+
+.login h1{
+	padding-top: 10px;
+	font-size: 2.6rem;
+}
+
+form{
+	margin: 5% 15%;
+	width: 70%;
+	text-align: center;
+}

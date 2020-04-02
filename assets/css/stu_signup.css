@@ -1,0 +1,41 @@
+.title{
+	text-align: center;
+	padding-top: 2%;
+	color: #333;
+	font-size: 100px;
+}
+
+h1{
+	font-size: 3rem;
+}
+
+.signup .fa-user-graduate{
+	padding-top: 5%;
+	padding-bottom: 0%;
+	height: 15%;
+	width: 15%;
+	color: #000;
+}
+
+.signup{
+	font-family: 'Gotu', sans-serif;
+	border-top: 5%;
+	border-radius: 5%; 
+	margin: 2% 30% 2% 33%;
+	background-color: rgb(148, 226, 247);
+	width: 35%;
+	height: 100%;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.signup h1{
+	padding-top: 10px;
+	font-size: 2.6rem;
+}
+
+form{
+	margin: 5% 15%;
+	width: 70%;
+	text-align: center;
+}

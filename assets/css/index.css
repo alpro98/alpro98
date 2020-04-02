@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Gotu', sans-serif;
+}
+
+.banner{
+    padding: 10px 0px;
+    padding-left: 29%;
+    background-repeat: no-repeat;
+
+}
+
+.jumbotron{
+    padding-top: 2%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Gotu', sans-serif;
+}
+
+.login{
+    padding: 25px;
+    text-align: justify;
+    padding-left: 35%;
+}
+
+
+td{
+    padding: 20px;
+}
+
+.btn-info{
+    height: 30px;
+    width: 70px;
+    padding-top: 2px;
+}
